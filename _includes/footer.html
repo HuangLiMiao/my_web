@@ -1,0 +1,10 @@
+<footer id="footer" class="site-footer">
+	<div class="inner">
+		<div class="copyright">
+			{% if site.copyright %} {{ site.copyright | markdownify }} {% else %}
+			<p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+			{% endif %}
+		</div>
+	</div>
+	<span id="busuanzi_container_site_pv">本站总访问量：<span id="busuanzi_value_site_pv"></span>次</span>
+</footer>
