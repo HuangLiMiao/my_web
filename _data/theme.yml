@@ -35,9 +35,9 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - 平面设计.md
-  - svg制作.md
-  - 网站设计.md
-  - 学习笔记.md
-  - 产品经理.md
-  - 数据挖掘.md
+  - study_note.md
+  - svg.md
+  - web_design.md
+  - graphic_design.md
+  - product_manager.md
+  - web_mining.md
